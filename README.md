@@ -11,10 +11,10 @@ An Abstractive text summarizer trained using lstm based sequence to sequence mod
 
 loss graph
 
-![Output](./model/train_log.png "loss overview")
+![Output](./model/train_log.jpeg "loss overview")
 
 encoder-decoder overview
-![Output1](./model/model_plot.png "model overview")
+![Output1](./model/model_plot.jpeg "model overview")
 
 ## Conclusion
 - 🫶  The machine learning model to convert a text document to abstract is done successfully.
