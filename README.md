@@ -18,5 +18,8 @@ encoder-decoder overview
 
 ## Conclusion
 - 🫶  The machine learning model to convert a text document to abstract is done successfully.
-- 🫶  On additive to it, will deploy the model using standard deployments..
-- 🫣  Will update the future deployments too here and remove these lines...
+- 🫶  Created a Flask app using an api call from my hugging face repository & deployed the app in heroku app.
+
+## Deployment:
+![Output2](./deployment/static/images/SS1.jpeg "deployment")
+- 🫶  https://text-summariser-v1.herokuapp.com/
