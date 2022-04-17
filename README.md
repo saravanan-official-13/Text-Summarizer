@@ -4,7 +4,8 @@
 An Abstractive text summarizer trained using lstm based sequence to sequence model with attention mechanisim. The attention model is used for generating each word of the summary conditioned on the input sentence.
 
 - Used CNN_DailyMail dataset.
-- Code Run : https://youtu.be/yQ80yyMRKO8
+- Code + Deployment :
+
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/LFZBA99NOpU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQacvrk4iyXIEhzufcyLKd9ZWHlQ)](https://www.youtube.com/watch?v=LFZBA99NOpU)
 
 ### Training Model Overview
