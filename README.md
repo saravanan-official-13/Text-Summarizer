@@ -5,7 +5,7 @@ An Abstractive text summarizer trained using lstm based sequence to sequence mod
 
 - Used CNN_DailyMail dataset.
 - Code Run : https://youtu.be/yQ80yyMRKO8
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yQ80yyMRKO8/0.jpg)](https://www.youtube.com/watch?v=yQ80yyMRKO8)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/LFZBA99NOpU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQacvrk4iyXIEhzufcyLKd9ZWHlQ)](https://www.youtube.com/watch?v=LFZBA99NOpU)
 
 ### Training Model Overview
 
